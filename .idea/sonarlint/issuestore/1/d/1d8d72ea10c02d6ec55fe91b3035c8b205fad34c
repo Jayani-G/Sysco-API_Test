@@ -1,0 +1,16 @@
+
+C	java:S1084")Either remove or fill this block of code.(÷¿­¹ÿÿÿÿÿ
+7
+java:S1116C"Remove this empty statement.(Á¸¹Ïøÿÿÿÿ
+e
+java:S1128"PRemove this unused import 'com.fasterxml.jackson.databind.SerializationFeature'.(ª¥Æ*
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ú¨µÌ
+7
+java:S1116Q"Remove this empty statement.(Á¸¹Ïøÿÿÿÿ
+H
+java:S1481O"-Remove this unused "toReturn" local variable.(Û«Ì—þÿÿÿÿ
+K
+java:S11436"5Remove this return statement from this finally block.(¸¼«Ž
+K
+java:S1143H"5Remove this return statement from this finally block.(Ú«ôÔ
